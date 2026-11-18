@@ -1,0 +1,8 @@
+DATA LOG
+**********************************
+Customer Name: khaya
+Product: Sealy Phuket
+VAT: R 388.5
+COMMISSION: R 129.5
+TOTAL: R 3108.0
+**********************************
